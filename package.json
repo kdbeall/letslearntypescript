@@ -1,0 +1,16 @@
+{
+  "name": "letslearntypescript",
+  "version": "1.0.0",
+  "description": "A collection of typescript examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kdbeall",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.4",
+    "typescript": "^2.7.1"
+  }
+}

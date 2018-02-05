@@ -1,0 +1,12 @@
+{
+    "files": [
+        "src/main.ts",
+        "src/basics/types.ts",
+        "src/interfaces_classes/animals.ts",
+        "src/generics/sort.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5"
+    }
+}
