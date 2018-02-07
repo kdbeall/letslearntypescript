@@ -1,5 +1,9 @@
-import { Animal, Cat } from "./interfaces_classes/animals";
-import * as QuickSort from "./generics/sort";
+import * as QuickSort from './generics/sort';
+import {Animal, Cat} from './interfaces_classes/animals';
+
+/**
+  Play around with the examples here!
+*/
 
 /**
 let animal = new Animal("Slug", 1, 0);
@@ -8,4 +12,3 @@ cat.makeNoise();
 */
 
 QuickSort.testQuickSort();
-
